@@ -1,6 +1,6 @@
 ---
 date: '2024-12-08T21:53:54+01:00'
-draft: true
+draft: false
 title: 'Verlanglijst'
 ---
 
