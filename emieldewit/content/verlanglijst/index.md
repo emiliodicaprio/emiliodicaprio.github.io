@@ -6,6 +6,7 @@ title: 'Emiels Verlanglijst'
 Het is wederom weer tijd dat ik moet verzinnen wat ik zou willen hebben als cadeautjes maar in plaats daarvan bouw ik eerst een website want dat is blijkbaar makkelijker dan cadeautjes voor mezelf verzinnen.
 
 - Een whiteboard(je)
+- Goede dingen voor op mijn bureau op werk
 - Een audiokaart voor op een raspberry pi zoals [deze](https://www.sossolutions.nl/hifiberry-dac-plus-phone)
 - Een "automatische" kabelstripper zoals [deze](https://www.hornbach.nl/p/jokari-kabelstripper-super-4-plus-0-2-6-0-mm/10481079/)
 - Zo'n [adereindhulstangset](https://www.hbm-machines.com/nl/p/hbm-1200-delige-hbm-kabelkrimptang-kabelschoentang-adereindhulstang?kb=ga_pm_18574139443_&gad_source=1&gclid=EAIaIQobChMIr57F75GZigMVsaeDBx2n-xhxEAQYByABEgK0qvD_BwE)
