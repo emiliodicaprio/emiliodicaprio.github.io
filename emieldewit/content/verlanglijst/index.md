@@ -1,7 +1,7 @@
 ---
 date: '2024-12-08T21:53:54+01:00'
 draft: false
-title: 'Verlanglijst'
+title: 'Emiels Verlanglijst'
 ---
 Het is wederom weer tijd dat ik moet verzinnen wat ik zou willen hebben als cadeautjes maar in plaats daarvan bouw ik eerst een website want dat is blijkbaar makkelijker dan cadeautjes voor mezelf verzinnen.
 
