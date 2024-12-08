@@ -18,3 +18,6 @@ Het is wederom weer tijd dat ik moet verzinnen wat ik zou willen hebben als cade
 ![WelkoopPannetje](WelkoopPannetje.jpg)
 - Pepermolen van de Xenos
 ![Pepermolen](Pepermolen.jpg)
+- Lego?
+- Boeken:
+    - The Pillars of the Earth - Ken Follett
