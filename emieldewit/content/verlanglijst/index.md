@@ -21,3 +21,5 @@ Het is wederom weer tijd dat ik moet verzinnen wat ik zou willen hebben als cade
 - Lego?
 - Boeken:
     - The Pillars of the Earth - Ken Follett
+- LP van Takeo Ischi zoals deze:
+![takeoooo](takeo_ischi.jpg)
